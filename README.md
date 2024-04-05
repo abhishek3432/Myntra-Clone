@@ -4,9 +4,15 @@
 
 # Deployment Step
 1.import code in your local device
+<br/>
 2.open vs code 
+<br/>
 3.in terminal goto 2-actual-backend file and run
+<br/>
   npm start
+<br/>
 4.again in terminal goto myntra clone file and run
-  npm run dev
+<br/>
+npm run dev
+<br/>
 5.goto given host link provided by terminal
