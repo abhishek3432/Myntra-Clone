@@ -7,12 +7,12 @@
 <br/>
 2.open vs code 
 <br/>
-3.in terminal goto 2-actual-backend file and run
+3.in terminal goto 2-actual-backend file and run:
 <br/>
-  npm start
+  "npm start"
 <br/>
-4.again in terminal goto myntra clone file and run
+4.again in terminal goto myntra clone file and run:
 <br/>
-npm run dev
+ "npm run dev"
 <br/>
 5.goto given host link provided by terminal
